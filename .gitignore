@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CovidAnalysis/v17
+/CovidAnalysis.API/bin/Debug/net6.0
+/CovidAnalysis.Core/bin/Debug/net6.0
+/CovidAnalysis.Infrastructure/bin/Debug/net6.0
+/CovidAnalysis.Infrastructure/obj/Debug/net6.0
+/CovidAnalysis.Core/obj
+/CovidAnalysis.API/obj
+/CovidAnalysis.Infrastructure/obj
